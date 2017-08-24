@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. 日间模式-->
+    <style name="day_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/white</item>
+
+        <!--日间模式对应的字体颜色 和日间模式对应的文本内容-->
+        <item name="textColorValue">@color/black</item>
+        <item name="textContent">@string/change_to_night</item>
+    </style>
+    
+    <!-- Base application theme. 夜间模式-->
+    <style name="night_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/dark_bg</item>
+        <item name="colorAccent">@color/dark_bg1</item>
+        <item name="android:windowBackground">@color/black</item>
+
+        <!--夜间模式对应的字体颜色 和夜间模式对应的文本内容-->
+        <item name="textColorValue">@color/white</item>
+        <item name="textContent">@string/change_to_day</item>
+    </style>
+
+</resources>

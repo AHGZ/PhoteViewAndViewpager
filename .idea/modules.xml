@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XiangMuYi.iml" filepath="$PROJECT_DIR$/XiangMuYi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photeviewpager放大/photeviewpager放大.iml" filepath="$PROJECT_DIR$/photeviewpager放大/photeviewpager放大.iml" />
+    </modules>
+  </component>
+</project>

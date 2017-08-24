@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeThemeTwo</string>
+    <string name="change_to_night">夜间模式</string>
+    <string name="change_to_day">日间模式</string>
+</resources>
